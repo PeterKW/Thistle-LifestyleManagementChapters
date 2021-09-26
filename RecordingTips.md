@@ -11,24 +11,24 @@
 
 ![mmhmm Running Screenshot](assets\mmhmm.jpg){:height="50%" width="80%"}
 
-Mac & Windows user-friendly application allowing users to import normal PowerPoint slides and have an overlay web camera and microphone recording all built in. Also, can have multiple speakers contributing together from different devices in one recording or stream. [youtube.com/playlist?list=PL083nkGb3FXEJr3nlLDcq4pLocmPs1Rra1](https://www.youtube.com/playlist?list=PL083nkGb3FXEJr3nlLDcq4pLocmPs1Rra&playnext=1)
+Mac & Windows user-friendly application allowing users to import normal PowerPoint slides and have an overlay web camera and microphone recording all built in. Also, can have multiple speakers contributing together from different devices in one recording or stream. [youtube.com/playlist?list=PL083nkGb3FXEJr3nlLDcq4pLocmPs1Rra1](https://www.youtube.com/playlist?list=PL083nkGb3FXEJr3nlLDcq4pLocmPs1Rra&playnext=1){:target="_blank"}
 
 ### StreamYard [Multi User but tends to more live videos rather than pre-recording for edits]
 
 'Dan and Geige, thought there should be a streaming tool that anyone could use – a tool that was fun instead of stressful – a tool that was simple, but powerful enough to create engaging content. They wanted people who weren’t techy, or who simply didn’t want to deal with the hassle of streaming, to still go live, share their stories, and grow their own communities'
 
-[StreamYard Getting Started YouTube Playlist](https://www.youtube.com/playlist?list=PLxqZPGZQ-k74PbwvByNzMAZ-umZ-5ZzBF&playnext=1)
+[StreamYard Getting Started YouTube Playlist](https://www.youtube.com/playlist?list=PLxqZPGZQ-k74PbwvByNzMAZ-umZ-5ZzBF&playnext=1){:target="_blank"}
 
 ### OBS Studio
 
 Windows/Linux/Mac
 
-[obsproject.com](https://obsproject.com)
+[obsproject.com](https://obsproject.com){:target="_blank"}
 
 #### OBS Ninja
 
 Handy Open Source project that integrates Video Conferencing with streaming and recording with graphics etc. Also, can include live generated captions as an editable overlay.
 
-[obs.ninja/?director=](https://obs.ninja/?director=)
+[obs.ninja/?director=](https://obs.ninja/?director=){:target="_blank"}
 
-Tutorial: [youtu.be/vLpRzMjUDaE](https://youtu.be/vLpRzMjUDaE?list=UUMc1GFSONeLSKvXuHx_N51A)
+Tutorial: [youtu.be/vLpRzMjUDaE](https://youtu.be/vLpRzMjUDaE?list=UUMc1GFSONeLSKvXuHx_N51A){:target="_blank"}
