@@ -9,7 +9,7 @@
 
 ### mmhmm
 
-![mmhmm Running Screenshot](assets\mmhmm.jpg)
+![mmhmm Running Screenshot](assets\mmhmm.jpg){:height="50%" width="80%"}
 
 Mac & Windows user-friendly application allowing users to import normal PowerPoint slides and have an overlay web camera and microphone recording all built in. Also, can have multiple speakers contributing together from different devices in one recording or stream. [youtube.com/playlist?list=PL083nkGb3FXEJr3nlLDcq4pLocmPs1Rra1](https://www.youtube.com/playlist?list=PL083nkGb3FXEJr3nlLDcq4pLocmPs1Rra&playnext=1)
 
