@@ -13,13 +13,13 @@
 
 </object>
 
-<object data="Thistle - LMC Manual TE Chapter 2.pdf" type="application/pdf" width="90%" height="50%">
+<object data="Thistle - LMC Manual TE Chapter 2.pdf" type="application/pdf" width="90%" height="90px">
     <embed src="Thistle - LMC Manual TE Chapter 2.pdf">
     <p><a href="Thistle - LMC Manual TE Chapter 2.pdf">Download PDF</a> Chapter 2</p>
 
 </object>
 
-<object data="Thistle - LMC Manual TE Chapter 3.pdf" type="application/pdf" width="90%" height="50%">
+<object data="Thistle - LMC Manual TE Chapter 3.pdf" type="application/pdf" width="90%" height="100%">
     <embed src="Thistle - LMC Manual TE Chapter 3.pdf">
         <p><a href="Thistle - LMC Manual TE Chapter 3.pdf">Download PDF</a> Chapter 3</p>
 
