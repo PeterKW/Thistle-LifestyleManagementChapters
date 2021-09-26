@@ -1,3 +1,5 @@
+#Recording Tips
+
 * Video - Please ensure all video is landscape. If you’re using a phone, either mount it on a tripod or just a solid surface. Avoid holding the phone ‘selfie style’ as it will be wobbly. Please be looking directly into the camera or just below it eg at a script.
 * When setting up, be aware of lighting. A room where you can control the lighting is ideal. Don’t have your back to a window or any overpowering light source that will make you a silhouette. Having interesting things or shapes in the background is absolutely fine though.
 * Audio – Be aware of the background noises like traffic, TV, your phone or even pets! A room with some soft furnishing is great for noise dampening.
