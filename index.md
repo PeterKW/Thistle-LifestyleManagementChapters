@@ -1,6 +1,6 @@
 <!-- https://stackoverflow.com/a/39793125 -->
 
-<object data="Thistle - LMC Manual TE Chapter 1.pdf" type="application/pdf" width="90%" height="80%">
+<object data="Thistle - LMC Manual TE Chapter 1.pdf" type="application/pdf" width="90%" height="500px">
     <embed src="Thistle - LMC Manual TE Chapter 1.pdf"></embed>
 </object>
 <p><a href="Thistle - LMC Manual TE Chapter 1.pdf">Download PDF</a> Chapter 1</p>
