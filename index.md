@@ -1,6 +1,6 @@
 <!-- https://stackoverflow.com/a/39793125 -->
 
-<object data="Thistle - LMC Manual TE Chapter 1.pdf" type="application/pdf" width="90%" height="50%">
+<object data="Thistle - LMC Manual TE Chapter 1.pdf" type="application/pdf" width="90%" height="80%">
     <embed src="Thistle - LMC Manual TE Chapter 1.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: </p>
     </embed>
