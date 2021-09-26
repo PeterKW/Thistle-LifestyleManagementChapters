@@ -16,6 +16,7 @@ Mac & Windows user-friendly application allowing users to import normal PowerPoi
 ### StreamYard [Multi User but tends to more live videos rather than pre-recording for edits]
 
 'Dan and Geige, thought there should be a streaming tool that anyone could use – a tool that was fun instead of stressful – a tool that was simple, but powerful enough to create engaging content. They wanted people who weren’t techy, or who simply didn’t want to deal with the hassle of streaming, to still go live, share their stories, and grow their own communities'
+
 [StreamYard Getting Started YouTube Playlist](https://www.youtube.com/playlist?list=PLxqZPGZQ-k74PbwvByNzMAZ-umZ-5ZzBF&playnext=1)
 
 ### OBS Studio
