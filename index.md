@@ -1,9 +1,10 @@
 <!-- https://stackoverflow.com/a/39793125 -->
 
-<object data="Thistle - LMC Manual TE Chapter 1.pdf" type="application/pdf" width="700px" height="700px">
+<object data="Thistle - LMC Manual TE Chapter 1.pdf" type="application/pdf" width="100%" height="100%">
     <embed src="Thistle - LMC Manual TE Chapter 1.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Thistle - LMC Manual TE Chapter 1.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: </p>
     </embed>
+    <p><a href="Thistle - LMC Manual TE Chapter 1.pdf">Download PDF</a></p>
 </object>
 
 <object data="Thistle - LMC Manual TE Chapter 1.pdf" type="application/pdf">
