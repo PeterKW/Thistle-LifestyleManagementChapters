@@ -33,5 +33,4 @@ Windows/Linux/Mac
 Handy Open Source project that integrates Video Conferencing with streaming and recording with graphics etc. Also, can include live generated captions as an editable overlay.
 
 [obs.ninja/?director=](https://obs.ninja/?director=){:target="_blank"} <br/>
-
 Tutorial: [youtu.be/vLpRzMjUDaE](https://youtu.be/vLpRzMjUDaE?list=UUMc1GFSONeLSKvXuHx_N51A){:target="_blank"}
