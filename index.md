@@ -1,5 +1,11 @@
 <!-- https://stackoverflow.com/a/39793125 -->
 
+<object data="Thistle - LMC Manual TE Chapter 1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Thistle - LMC Manual TE Chapter 1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Thistle - LMC Manual TE Chapter 1.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 <object data="Thistle - LMC Manual TE Chapter 1.pdf" type="application/pdf">
     <embed src="Thistle - LMC Manual TE Chapter 1.pdf"></embed>
         <p><a href="Thistle - LMC Manual TE Chapter 1.pdf">Download PDF</a> Chapter 1</p>
@@ -26,7 +32,7 @@
 
 <object data="Thistle - LMC Manual TE Chapter 5.pdf" type="application/pdf" width="90%" height="90%">
     <embed src="Thistle - LMC Manual TE Chapter 5.pdf">
-        <p><a href=""Thistle - LMC Manual TE Chapter 5.pdf">Download PDF</a> Chapter 5</p>
+        <p><a href="Thistle - LMC Manual TE Chapter 5.pdf">Download PDF</a> Chapter 5</p>
 
 </object>
 
